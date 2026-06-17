@@ -1,0 +1,41 @@
+# Geotechnique — Saint-Nazaire
+
+> Geotechnical engineering services in Saint-Nazaire, France.
+
+## Services
+- [Amelioration Sols](https://saint-nazaire.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://saint-nazaire.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://saint-nazaire.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://saint-nazaire.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://saint-nazaire.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://saint-nazaire.geotechnique.vip/colonnes-ballastees/)
+- [Densite Cone Sable](https://saint-nazaire.geotechnique.vip/densite-cone-sable/)
+- [Excavations](https://saint-nazaire.geotechnique.vip/excavations/)
+- [Fondations](https://saint-nazaire.geotechnique.vip/fondations/)
+- [Geophysique](https://saint-nazaire.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://saint-nazaire.geotechnique.vip/geotechnique-routiere/)
+- [Injections](https://saint-nazaire.geotechnique.vip/injections/)
+- [Investigation](https://saint-nazaire.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://saint-nazaire.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://saint-nazaire.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://saint-nazaire.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://saint-nazaire.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://saint-nazaire.geotechnique.vip/liquefaction/)
+- [Masw](https://saint-nazaire.geotechnique.vip/masw/)
+- [Murs Soutenement](https://saint-nazaire.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://saint-nazaire.geotechnique.vip/permeabilite-in-situ/)
+- [Radiers](https://saint-nazaire.geotechnique.vip/radiers/)
+- [Resistivite](https://saint-nazaire.geotechnique.vip/resistivite/)
+- [Semelles](https://saint-nazaire.geotechnique.vip/semelles/)
+- [Sismique](https://saint-nazaire.geotechnique.vip/sismique/)
+- [Sondages Spt](https://saint-nazaire.geotechnique.vip/sondages-spt/)
+- [Talus](https://saint-nazaire.geotechnique.vip/talus/)
+- [Triaxial](https://saint-nazaire.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://saint-nazaire.geotechnique.vip/tunnels-sol-mou/)
+
+## Contact
+- Website: https://saint-nazaire.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Saint-Nazaire, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
